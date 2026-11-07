@@ -1,0 +1,6 @@
+*.o
+huffman
+*.huf
+*.out
+test/*.txt
+test/*.bin
